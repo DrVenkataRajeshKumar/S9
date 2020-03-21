@@ -5,15 +5,15 @@ we have added Albumentation transforms to the S8 Code.
 
 Applied fallowing Albumentation transformations-
 
-Horizontal flip,
+    Horizontal flip,
 
-Rotate, 
+    Rotate, 
 
-RGB shift, 
+    RGB shift, 
 
-Normalize and 
+    Normalize and 
 
-Cutout.
+    Cutout.
 
 
 Implemented GradCam function as a module and applied in 4 layers.
